@@ -1,0 +1,4 @@
+# Keep the unpacked make.fun kit out of the entry repository.
+u-ricoxyz-absurd-micro-startup-pitch-off-12e33571-kit/
+__pycache__/
+*.pyc
